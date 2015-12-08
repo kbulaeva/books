@@ -1,0 +1,20 @@
+input.field-datepicker {
+    width: 100px;
+}
+
+.form-horizontal .row {
+    float: left;
+    margin: 0 25px 0 15px;
+}
+
+.row .form-control {
+    width: auto;
+}
+
+.row input.field-datepicker {
+    width: 100px;
+}
+
+.view-row {
+    margin: 10px;
+}
